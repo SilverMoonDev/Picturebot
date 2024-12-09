@@ -18,6 +18,8 @@ To install Picturebot, clone the repository and install the dependencies:
 ```py
 git clone https://github.com/Zam6969/Picturebot
 cd picturebot
+i have python 3.11.9 but idk if you can use other versions you can try!
+Configure Config.ini with your own path and webhook!
 pip install Requirements.txt
 Python3 watchfolder.py
 ```
