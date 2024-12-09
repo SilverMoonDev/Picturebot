@@ -27,9 +27,15 @@ Python3 watchfolder.py
 ## Usage
 
 To start using Picturebot, run the following command:
+To embed a gif, use the following markdown syntax:
+
+
+For example:
 
 ```py
 Python3 watchfolder.py
 ```
-
+```markdown
+![Picturebot Demo](https://cdn.discordapp.com/attachments/1300868137549303879/1315806796610404526/this.gif?ex=6758c012&is=67576e92&hm=e4f3bfdda2c235556b60ac195e13602b1dafa665489423915562a6b368393137&)
+```
 
