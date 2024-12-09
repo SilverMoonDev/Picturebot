@@ -1,4 +1,4 @@
-# Picturebot
+# Vrchat Picture auto upload to Discord
 Created this for friends that take pictures in vrchat,
 and want them instantly viewable in discord via webhook for their discord.
 Picturebot is an automated tool for organizing and managing your image collections.
