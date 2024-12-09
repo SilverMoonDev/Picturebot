@@ -36,6 +36,5 @@ For example:
 Python3 watchfolder.py
 ```
 
-[Picturebot Demo](https://cdn.discordapp.com/attachments/1300868137549303879/1315806796610404526/this.gif?ex=6758c012&is=67576e92&hm=e4f3bfdda2c235556b60ac195e13602b1dafa665489423915562a6b368393137&)
-
+![this](https://github.com/user-attachments/assets/1d842b82-887b-4db5-837e-c38dc9b9be3e)
 
