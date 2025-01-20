@@ -28,4 +28,4 @@ To start using Picturebot, run the following command:
 py picturebot.py
 ```
 
-![this](https://github.com/user-attachments/assets/1d842b82-887b-4db5-837e-c38dc9b9be3e)
+![awa](https://github.com/user-attachments/assets/56611a42-c417-437e-b65d-5e464c4e93f4)
