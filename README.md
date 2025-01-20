@@ -15,7 +15,7 @@ To install Picturebot, clone the repository and install the dependencies:
 
 ```py
 you need python 3 installed!
-git clone https://github.com/Zam6969/Picturebot
+git clone https://github.com/SilverMoonDev/Picturebot
 cd Picturebot
 Set your webhook in config.ini!
 pip install -r requirements.txt
