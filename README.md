@@ -1,40 +1,31 @@
-# Vrchat Picture auto upload to Discord
-Created this for friends that take pictures in vrchat,
-and want them instantly viewable in discord via webhook for their discord.
-Picturebot is an automated tool for organizing and managing your image collections.
+# Vrchat Picture Auto Upload to Discord
+Created this for people that take pictures in vrchat,
+and want them instantly viewable in discord via webhook for their discord with the world info.
 
+Picturebot is an automated tool for organizing and managing your vrchat pictures.
 
 ## Features
 
 - Automatic image categorization
-- Duplicate image detection
-- Image metadata editing
-- Batch image processing
+- See World Details
 
 ## Installation
 
 To install Picturebot, clone the repository and install the dependencies:
 
 ```py
+you need python 3 installed!
 git clone https://github.com/Zam6969/Picturebot
-cd picturebot
-i have python 3.11.9 but idk if you can use other versions you can try!
-Configure Config.ini with your own path and webhook!
-pip install Requirements.txt
-Python3 watchfolder.py
+cd Picturebot
+Set your webhook in config.ini!
+pip install -r requirements.txt
 ```
 
 ## Usage
-
 To start using Picturebot, run the following command:
-To embed a gif, use the following markdown syntax:
-
-
-For example:
 
 ```py
-Python3 watchfolder.py
+py picturebot.py
 ```
 
 ![this](https://github.com/user-attachments/assets/1d842b82-887b-4db5-837e-c38dc9b9be3e)
-
